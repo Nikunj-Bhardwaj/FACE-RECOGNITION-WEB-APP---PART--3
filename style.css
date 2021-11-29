@@ -1,0 +1,20 @@
+body{
+    color: white;
+     background: #C02425;  
+    background: -webkit-linear-gradient(to right, #F0CB35, #C02425);  
+    background: linear-gradient(to right, #F0CB35, #C02425); 
+    ;
+}
+.heading{
+width: 80%;
+font-size: 22px;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color: yellowgreen;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    Height: 350px;
+}
+
